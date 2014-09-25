@@ -1,0 +1,17 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6520G (ID=0x9647)
+    Vendor:   ATI
+    VRAM:     499 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Niki\Desktop\unity_demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Niki\Desktop\unity_demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Niki\Desktop\unity_demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Niki\Desktop\unity_demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.420 seconds
+desktop: 1680x1050 60Hz; virtual: 3046x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
